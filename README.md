@@ -18,6 +18,8 @@ Welcome to my personal portfolio built with Django! This project showcases my we
 - Bootstrap
 - Figma (for design)
 - GitHub (version control)
+  <img width="1352" height="609" alt="image" src="https://github.com/user-attachments/assets/2e9b752c-8dfc-4bfa-ab07-2921cea1cf31" />
+
 
 ## 📁 Folder Structure
 
